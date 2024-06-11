@@ -1,3 +1,6 @@
+"""
+Sum of the two given numbers
+"""
 #user input of two numbers
 num1=int(input("Enter first number: "))
 num2=int(input("Enter second number: "))
