@@ -1,3 +1,6 @@
+"""
+Write a program that calculate factorial number of given interger
+"""
 # taking number from user
 num=int(input("Enter number: "))
 
