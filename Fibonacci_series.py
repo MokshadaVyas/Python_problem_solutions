@@ -1,3 +1,6 @@
+"""
+Calculate fibonacci sequence of n numbers
+"""
 # Function to compute Fibonacci number
 def fibonacci(n):
     if n == 0:
