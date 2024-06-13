@@ -1,3 +1,6 @@
+"""
+Write a program that only display even indices of the string
+"""
 # # First Method
 name=input("Enter a name: ")
 print("Name you've entered is",name)
